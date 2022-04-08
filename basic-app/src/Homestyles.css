@@ -1,0 +1,10 @@
+.clr-blue{
+    color: blue;
+    border: 2px solid rebeccapurple;
+    background-color: aqua;
+}
+.clr-red{
+    color: bisque;
+    border: 2px solid yellowgreen;
+    background-color: chocolate;
+}
